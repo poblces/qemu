@@ -2533,7 +2533,7 @@ int main(int argc, char **argv, char **envp)
     QemuOptsList *olist;
     int optind;
     const char *optarg;
-    const char *loadvm = NULL;
+    const char *loadvm = NULL;;;;;;
     QEMUMachine *machine;
     const char *cpu_model;
     const char *vga_model = "none";
